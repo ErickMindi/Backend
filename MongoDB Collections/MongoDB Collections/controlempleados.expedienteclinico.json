@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "651c2d6048ee0ac38dd28a03"
+  },
+  
+    "empleado_id": "654941da56d3bbfc9878a547",
+    "tipoSangre": "AB+",
+    "Padecimientos": "hahfksdfhkdsa",
+    "NumeroSeguroSocial": "fadjflñasd",
+    "Segurodegastosmedicos": "fasjdlkñfjñasdl",
+    "PDFSegurodegastosmedicos": [
+      {
+        "path": "sistemaempleados.pdf",
+        "content": "data:application/pdf;base64,JVBERi0xLjcKJbXtrvsKNC…zdHJlYW0KZW5kb2JqCnN0YXJ0eHJlZgozODMyNQolJUVPRgo=",
+        "name": "sistemaempleados.pdf",
+        "lastModified": 1701466449478
+      }
+    ]
+  
+  
+}]

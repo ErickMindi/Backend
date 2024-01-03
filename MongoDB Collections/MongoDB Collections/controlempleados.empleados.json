@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6503e98554ebfbcf16b2f9a4"
+  },
+  "Nombre": "User3",
+  "ApelPaterno": "alksnk",
+  "ApelMaterno": "Vaslknz",
+  "FecNacimiento": "lsdnflk",
+  "Fotografia": "avatar3.png",
+  "Ruta": "C:/Users/luis1/Pictures/cibercom/avatar3.png"
+},
+{
+  "_id": {
+    "$oid": "6503e9c754ebfbcf16b2f9a5"
+  },
+  "Nombre": "Miguel Angel",
+  "ApelPaterno": "Galvez",
+  "ApelMaterno": "Vazquez",
+  "FecNacimiento": "30/12/1997",
+  "Fotografia": "avatar2.png",
+  "Ruta": "C:/Users/luis1/Pictures/cibercom/avatar2.png"
+},
+{
+  "_id": {
+    "$oid": "650de18eeb2d66a5cf6fd682"
+  },
+  "Nombre": "User7",
+  "ApelPaterno": "ank",
+  "ApelMaterno": "Vnz",
+  "FecNacimiento": "lsdnflk",
+  "Fotografia": "avatar3.png",
+  "Ruta": "C:/Users/luis1/Pictures/cibercom/avatar3.png"
+},
+{
+  "_id": {
+    "$oid": "650de75beb2d66a5cf6fd683"
+  },
+  "Nombre": "User99",
+  "ApelPaterno": "ank",
+  "ApelMaterno": "Vnz",
+  "FecNacimiento": "lsdnflk",
+  "Fotografia": "avatar3.png",
+  "Ruta": "C:/Users/luis1/Pictures/cibercom/avatar3.png"
+}]

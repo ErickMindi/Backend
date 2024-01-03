@@ -1,0 +1,26 @@
+[
+  {
+    "_id": {
+      "$oid": "651c334a5ea5b19d46d1a743"
+    },
+    "empleado_id": {
+      "$oid": "123456789012345678901234"
+    },
+    "Puesto": "Desarrollador",
+    "JefeInmediato": "Raul",
+    "HorarioLaboral": {
+      "HoraEntrada": "9",
+      "HoraSalida": "18",
+      "TiempoComida": "1",
+      "DiasTrabajados": "Lunes a Viernes"
+    },
+    "ExpedienteDigitalPDF": [
+      {
+        "path": "sistemaempleados.pdf",
+        "content": "data:application/pdf;base64,JVBERi0xLjcKJbXtrvsKNC…zdHJlYW0KZW5kb2JqCnN0YXJ0eHJlZgozODMyNQolJUVPRgo=",
+        "name": "sistemaempleados.pdf",
+        "lastModified": 1701466449478
+      }
+    ]
+  }
+]

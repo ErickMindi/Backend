@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "651c306b48ee0ac38dd28a08"
+  },
+  "MontoPrestamo": 5000,
+  "TasaInteres": "3%",
+  "FecSolicitud": "20/01/2023",
+  "FecAprobacion": "30/01/2023",
+  "FecVencimiento": "30/06/2023",
+  "PlazoMeses": 6,
+  "MontoPendiente": 5000,
+  "PagosRealizados": 1,
+  "CuotaMensual": 500,
+  "MetodoPago": "Nomina"
+}]

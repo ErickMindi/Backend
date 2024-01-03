@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "651c323f5ea5b19d46d1a742"
+  },
+  
+    "empleado_id": "654941da56d3bbfc9878a547",
+    "RedesSociales": [
+      {
+        "redSocialSeleccionada": "tiktok",
+        "URLRedSocial": "https://tiktok.com/",
+        "NombreRedSocial": "usuario_tiktok"
+      },
+      {
+        "redSocialSeleccionada": "Youtube",
+        "URLRedSocial": "https://youtube.com/",
+        "NombreRedSocial": "usuario_youtube"
+      }
+
+    ]
+  }
+  ]
+  

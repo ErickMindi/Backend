@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "651c2e6a48ee0ac38dd28a05"
+  },
+  "ParentescoEmpleado": "Madre",
+  "Empleado": "6503e98554ebfbcf16b2f9a4",
+  "DatosContacto": "6503eb4c54ebfbcf16b2f9a9"
+}]

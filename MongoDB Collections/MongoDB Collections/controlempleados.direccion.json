@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "651c33d05ea5b19d46d1a745"
+  },
+  "Calle": "Independencia",
+  "NumExterior": 23,
+  "NumInterior": 1,
+  "Manzana": "@Tercera",
+  "Lote": 10,
+  "Municipio": "Naolinco",
+  "Ciudad": "Xalapa",
+  "CodigoP": 91502,
+  "Pais": "Mexico"
+}]
