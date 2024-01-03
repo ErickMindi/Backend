@@ -1,8 +1,0 @@
-[{
-  "_id": {
-    "$oid": "650dfd202674decb271f2a93"
-  },
-  "NombreDepto": "Sistemas Computacionales",
-  "Descripcion": "Planta 1",
-  "Poblacion": 555
-}]
